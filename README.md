@@ -20,5 +20,5 @@ Model Optimization – ONNX, TensorRT, Quantization, Pruning
 Frameworks & Libraries
 TensorFlow PyTorch Keras scikit-learn OpenCV Pandas NumPy Matplotlib Flask Django FastAPI Requests Streamlit
 
-Databases
-PostgreSQL MySQL SQLite
+### Cloud & Databases
+Google Cloud • Supabase • SQLite • PostgreSQL
